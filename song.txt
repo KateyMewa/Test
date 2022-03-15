@@ -12,3 +12,5 @@
 check commit --amend
 
 check git revert 
+
+git show?
