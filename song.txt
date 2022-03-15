@@ -5,10 +5,3 @@
 
 555555
 666666
-
-7777777
-8888888
-
-check commit --amend
-
-check git revert 
