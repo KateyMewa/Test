@@ -9,12 +9,4 @@
 7777777
 8888888
 
-check commit --amend
-
-check git revert 
-
-git show?
-
-feature check
-
-branch check
+feature branch second check
